@@ -1,0 +1,2 @@
+# MyHANAApp
+Sample CAP project
